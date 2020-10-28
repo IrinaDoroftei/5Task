@@ -2,9 +2,11 @@ public class Task5 {
     public void method1() {
         System.out.println("Good day");
     }
-
-    public int method2(int numar) {
-        return numar;
+    public int method2(int number){
+        return number;
+    }
+    public int method3(int number2){
+        return number2;
     }
 
     public void method4() {
