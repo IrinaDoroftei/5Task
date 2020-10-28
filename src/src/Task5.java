@@ -19,5 +19,8 @@ public class Task5 {
 
     public static void main(String[] args) {
         System.out.println("Hello,hello");
+        System.out.println("Hello,Goodby");
+        System.out.println("Hello,Good morning");
+        System.out.println("Hello,Bye bye");
     }
 }
